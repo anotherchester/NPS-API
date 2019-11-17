@@ -1,0 +1,15 @@
+#hidden{
+    display: none;
+}
+
+.red{
+    color:red;
+}
+
+input{
+    display:block;
+    margin:1em;
+}
+li{
+    list-style: none;
+}
